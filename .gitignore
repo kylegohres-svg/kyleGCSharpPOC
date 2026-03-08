@@ -1,0 +1,1 @@
+Standard .NET gitignore excluding bin, obj, .vs, TestResults, nuget packages, and build artifacts.
