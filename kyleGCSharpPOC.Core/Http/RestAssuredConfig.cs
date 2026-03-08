@@ -1,0 +1,1 @@
+Configuration class managing base URLs, timeouts, headers, content types, redirects, SSL validation, and proxy settings with fluent builder methods.

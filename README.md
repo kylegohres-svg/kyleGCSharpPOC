@@ -1,2 +1,1 @@
-# kyleGCSharpPOC
-Creating a test framework for the C# language that can support both API and UI modules
+Comprehensive framework documentation with usage examples, configuration, components, and best practices.

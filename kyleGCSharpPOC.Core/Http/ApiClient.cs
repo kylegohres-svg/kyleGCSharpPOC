@@ -1,0 +1,1 @@
+Fluent DSL-based HTTP client mimicking Java REST Assured library with support for all HTTP methods, headers, query params, body, authentication, and response assertions.

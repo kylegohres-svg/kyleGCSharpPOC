@@ -1,0 +1,1 @@
+Sample test class demonstrating GET, POST, PUT, PATCH, DELETE requests with various assertion examples.

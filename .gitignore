@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and NuGet files
+
+# Build directories
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+
+# Coverage results
+coverage/
+
+# Build artifacts
+# Additional build artifacts can be added here as needed

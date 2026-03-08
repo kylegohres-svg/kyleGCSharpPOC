@@ -1,0 +1,1 @@
+Fluent assertion extensions for HTTP responses supporting status codes, headers, body content, and JSON property validation.
